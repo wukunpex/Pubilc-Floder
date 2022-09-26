@@ -1,0 +1,23 @@
+<data v="1.0">
+    current text data Element below
+    <country name="liechtenstein">
+        <rank updated="yes">2</rank>
+        <year years="1">2097</year>
+        <gdppc>141100</gdppc>
+        <neighbor name="austria" direction="E" />
+        <neighbor name="switzerland" direction="W" />
+    </country>
+    <country name="singapore">
+        <rank updated="yes">6</rank>
+        <year years="1">2107</year>
+        <gdppc>9800</gdppc>
+        <neighbor name="Malaysia" direction="N" />
+    </country>
+    <country name="panama">
+        <rank updated="yes">23</rank>
+        <year years="1">2117</year>
+        <gdppc>1913100</gdppc>
+        <neighbor name="costa rica" direction="W" />
+        <neighbor name="colombia" direction="E" />
+    </country>
+</data>
